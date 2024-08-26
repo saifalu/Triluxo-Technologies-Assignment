@@ -22,7 +22,7 @@
 
 #### Screenshot:
 ![Requirements.txt](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/2b586b00-8538-4ffd-b7cf-b87865944623)
-![Screenshot2024-06-27150817](https://github.com/saifalu/cat-chat/assets/92035012/15913ee3-c613-4071-9629-bb1169a9d1ba)
+
 
 ### 4. Initialized the Git Repository and Pushed to GitHub
 - Initialized the Git repository and added files (`app.py`, `requirements.txt`).
