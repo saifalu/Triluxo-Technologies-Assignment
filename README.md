@@ -73,7 +73,7 @@
 
 ### URL of Application
 Access the application using the following URL:
-[flask-azurewebapp-assignment.azurewebsites.net](https://flask-azurewebapp-assignment.azurewebsites.net)
+[flask-azurewebapp-assignment.azurewebsites.net](https://flask-azurewebapp-assignment-e9a6bwb0ejacc8eb.centralindia-01.azurewebsites.net/)
 
 ## Contact Information
 - **Developed & Deployed by:** **Syed Saif Ali**
