@@ -49,7 +49,7 @@
 - Configured deployment settings to deploy from the master branch.
 
 #### Screenshot:
-![Deployment Center Configuration](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/3909f82e-ef56-41cb-8d4d-374d23eda0ec)
+![Deployment Center Configuration](https://github.com/user-attachments/assets/7c9ea3da-4f6b-4f1a-b5e6-f53106bea2b8)
 
 ### 7. Deployment Process
 - After saving the deployment settings, the deployment started using GitHub Actions to Azure Web App.
@@ -69,7 +69,7 @@
 - Accessed the deployed Flask application via the Azure Web App URL endpoint to verify functionality.
 
 #### Screenshot:
-![Deployed Flask App](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/72e31bfb-bdd4-4024-a71f-6dc4ef0bd24b)
+![Deployed Flask App](https://github.com/user-attachments/assets/fbfd7f6a-56df-4d23-8b67-7c69422f7a0d)
 
 ### URL of Application
 Access the application using the following URL:
