@@ -60,7 +60,7 @@
   - Deploying to Azure Web App using Azure's `webapps-deploy` GitHub Action.
 
 #### Screenshots:
-![GitHub Actions Deployment](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/3cfb142e-d38c-4908-9876-83d128294325)
+![GitHub Actions Deployment](https://github.com/user-attachments/assets/6b9a583f-3615-4f7b-9625-14f99c3cfd89)
 ![GitHub Actions Log](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/bb50bf51-4ba7-423c-bfc5-ea2928318583)
 ![Deployment Success](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/aa994e5c-4304-4b8e-b3fe-ec17ed95b967)
 
