@@ -31,7 +31,7 @@
 
 #### Screenshot:
 ![Initializing Git and First Commit](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/01f50b29-01d9-4b98-b2fd-c85aba212aa8)
-![Adding Remote and Pushing to GitHub](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/a60f7a9d-d012-4a84-a988-a39d7710b285)
+
 ![GitHub Repository](https://github.com/saifalu/Flask-AzureWebApp--Assignment/assets/92035012/59a1cdb1-904e-46ce-9ce2-0d4718d4d119)
 
 ### 5. Azure Web App Creation
